@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Hafidz Ali
+- 👀 I’m front end developer based on Jakarta, Indonesia.
